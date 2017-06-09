@@ -26,12 +26,12 @@
     },
     "autoload": {
         "psr-0": {
-            "Convmyr\\Conversation\\": "src/"
+            "Commtrv\\Conversation\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Convmyr\\Conversation\\Test\\": "tests/"
+            "Commtrv\\Conversation\\Test\\": "tests/"
         }
     },
     "minimum-stability": "stable"
