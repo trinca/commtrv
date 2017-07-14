@@ -27,6 +27,7 @@ class CommunicationThread extends Eloquent
         'teacher_id',
         'group_id',
         'company_id',
+        'school_id',
         'is_private'
     ];
 
